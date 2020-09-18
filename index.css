@@ -1,0 +1,94 @@
+*{
+    padding: 0px;
+    margin: 0px;
+}
+html{
+    overflow-x: hidden;
+}
+.head{
+    text-align: center;
+    margin-top: 30px;
+}
+.head > .top-heading{
+    font-size: 30px;
+}
+.head > p{
+    font-size: 20px;
+}
+
+/*****************************************from*******************************/
+
+.left{
+    background-color: #ffb5073f;
+    box-shadow: 0 2px 4px 2px rgba(81, 81, 81, 0.468);
+    padding-left: 60px;
+    padding-top: 30px;
+   
+}
+.right{
+    box-shadow: 0 2px 4px 2px rgba(81,81,81,.468);
+}
+.right > .f1{
+    padding-top: 30px;
+margin-left: 30px;
+margin-right: 30px;
+
+}
+.right > .f2{
+    padding-top: 30px;
+margin-left: 30px;
+margin-right: 30px;
+}
+.right > .f3{
+    padding-top: 30px;
+margin-left: 30px;
+margin-right: 30px;
+}
+.right > .f4{
+    padding-top: 30px;
+margin-left: 30px;
+margin-right: 30px;
+padding-bottom: 30px;
+}
+.right-head{
+    font-weight: 700;
+    font-size: 20px;
+}
+.write{
+    border: 0;
+    background-color: #ffb50703;
+    border-bottom: 1px solid black;
+    margin: 20px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+.class{
+    margin: 20px;
+    padding-left: 9px;
+    padding-right: 9px;
+    border-radius: 10px;
+    background-color: white;
+    border: 1.5px solid #333;
+}
+.subscribe{
+    margin-top: 30px;
+    margin-bottom: 30px;
+    font-size: 20px;
+    color: black;
+    background-color: #CECECE;
+    padding: 10px;
+    border-radius: 30px;
+    border: 0;
+    box-shadow: 0 2px 4px 2px rgba(81,81,81,.468);
+    padding-left: 30px;
+    padding-right: 30px;
+}
+.terms{
+    padding-top: 10px;
+    padding-bottom: 50px;
+}
+.select{
+   padding-top:30px ;
+   padding-bottom: 30px;
+}
